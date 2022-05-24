@@ -1,0 +1,1 @@
+welcome to the text file created from git terminal
