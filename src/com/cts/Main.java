@@ -11,6 +11,8 @@ public class Main {
 		
 		SomeService ss = new SomeService();
 		System.out.println(ss.findLength("Souvik"));
+		
+		System.out.println("Hello Sattwik");
 	}
 
 }
